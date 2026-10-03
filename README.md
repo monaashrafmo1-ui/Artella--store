@@ -1,3 +1,3 @@
-# Artella--store
+index html
 Arte .color.handmade
-index.html
+Artella-store
